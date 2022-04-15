@@ -463,6 +463,9 @@ __pycache__/
 OpenCover/
 junit/
 
+# DS Store
+.DS_Store
+
 # Catboost Directory
 catboost_info/
 
